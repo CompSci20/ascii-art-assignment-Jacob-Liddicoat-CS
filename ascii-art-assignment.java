@@ -35,4 +35,7 @@ public class ascii-art-assignment
    System.out.print("  " + J + "   " + A + "   " + A + " "); //Prints  "  "J"   "A"   "A" "
    System.out.println(C + "    " + O + "  " + O + " " + B + "   " + B); //Prints C"    "O"  "O" "B"   "B
 
+   System.out.print(J + " " + J + "   " + A + "   " + A + " "); //Prints J" "J"   "A"   "A" "
+   System.out.println(C + "    " + O + "  " + O + " " + B + "   " + B); // Prints C"   "O"  "O" "B"   "B
+
    
