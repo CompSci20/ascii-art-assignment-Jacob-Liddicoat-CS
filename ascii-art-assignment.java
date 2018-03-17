@@ -15,4 +15,8 @@ public class ascii-art-assignment
    String BBBB ="BBBB";
    String B ="B";
 
+   System.out.print(JJJJJ + "   " + A); //Prints JJJJJ"   "A
+   System.out.print("   " + CCCC + " "); //Prints "   "CCCC" "
+   System.out.println(OOOO + " " + BBBB); //Prints OOOO" "BBBB
+
    
