@@ -8,4 +8,7 @@ public class Ascii-Art
    String 8888 ="8888";
    String 8 ="8";
 
+   System.out.println(8888); //Prints 8888
+   System.out.println(8 + "  " + 8); //Prints 8"  "8
+   System.out.println(8888); //Prints 8888
    
