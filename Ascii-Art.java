@@ -11,4 +11,7 @@ public class Ascii-Art
    System.out.println(8888); //Prints 8888
    System.out.println(8 + "  " + 8); //Prints 8"  "8
    System.out.println(8888); //Prints 8888
-   
+   System.out.println(8 + "  " + 8); //Prints 8"  "8
+   System.out.println(8888); //Prints 8888
+  }
+ }
