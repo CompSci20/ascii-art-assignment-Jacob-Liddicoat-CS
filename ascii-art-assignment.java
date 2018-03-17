@@ -19,4 +19,9 @@ public class ascii-art-assignment
    System.out.print("   " + CCCC + " "); //Prints "   "CCCC" "
    System.out.println(OOOO + " " + BBBB); //Prints OOOO" "BBBB
 
+   System.out.print("  " + J + "    "); //Prints "  "J"    "
+   System.out.print(A + " " + A + "  "); //Prints A" "A"  "
+   System.out.print(C + "    " + O + "  " + O); //Prints C"    "O"  "O
+   System.out.println(" " + B + "   " + B); //Prints " "B"   "B
+
    
